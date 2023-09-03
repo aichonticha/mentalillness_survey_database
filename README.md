@@ -1,5 +1,8 @@
 # mentalillness_survey_database
 
+![PIC](survey.png)
+
+
 The process inculdes:
 
 - I. Data Cleaning
