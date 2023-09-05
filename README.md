@@ -28,6 +28,7 @@ The process inculdes:
 
 ##### 3. answer table
 - *answer_id (primary key)*
+- *user_id*
 - *answer_text*
 - *survey_id (foreign key)*
 - *question_id (foreign key)*
